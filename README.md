@@ -1,2 +1,1 @@
-# LearnPython
-Chicken
+# Learn HTML, CSS, JavaScript
